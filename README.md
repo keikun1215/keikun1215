@@ -15,5 +15,5 @@ I have studied Rust for one month.<br>
 </ul>
 <h3>👥Organizations</h3>
 <ul>
-  <li><a href="https://github.com/XOMO-sava">XOMO Server</a></li>
+  <li><a href="https://github.com/XOMO-sava">XOMO Server</a> - <a href="https://github.com/Yuuseio0311">Yuuseio0311</a></li>
 </ul>
