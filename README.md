@@ -1,13 +1,10 @@
 ---
 <h1 align="center"> Hi there :wave: </h1>
 <h2>❓About</h2>
-Hello! I'm keikun1215. I'm 13 years old.<br>
-My birthday is December 15th.<br>
-I'm from Japan.
+From Japan
+14 years old
+Very big t*ntin (About 15cm)
 <h3>💻Useable languages</h3>
-I have been using JavaScript for 6 months.<br>
-I have been using Python for three months.<br>
-I have studied Rust for one month.<br>
 <ul>
   <li>JavaScript (The most favorites)</li>
   <li>Python</li>
