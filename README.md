@@ -1,5 +1,4 @@
 <img src="./tests9.png" />
----
 <h1 align="center"> Hi there :wave: </h1>
 <h2>❓About</h2>
 From Japan
